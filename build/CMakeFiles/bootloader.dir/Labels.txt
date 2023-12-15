@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/STUDY/GREB/9_Bluetooth/build/CMakeFiles/bootloader
+D:/STUDY/GREB/9_Bluetooth/build/CMakeFiles/bootloader.rule
+D:/STUDY/GREB/9_Bluetooth/build/CMakeFiles/bootloader-complete.rule
+D:/STUDY/GREB/9_Bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/STUDY/GREB/9_Bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/STUDY/GREB/9_Bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/STUDY/GREB/9_Bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/STUDY/GREB/9_Bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/STUDY/GREB/9_Bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/STUDY/GREB/9_Bluetooth/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
