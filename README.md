@@ -37,6 +37,13 @@ See the [Getting Started Guide](https://docs.espressif.com/projects/esp-idf/en/l
 
 After the program started, `bt_spp_initator` will connect it and send data.
 
+Terminal on the phone:
+![зображення](https://github.com/dania93/ESP32-Bluetooth-connection/assets/41265108/4eb0fcc2-ce75-4a09-84eb-68f2a31c4fc7)
+
+Terminal on the computer:
+![зображення](https://github.com/dania93/ESP32-Bluetooth-connection/assets/41265108/e8096849-4bd7-44f5-b3a4-d9596f20701d)
+
+
 ## Trouble shooting
 
 - Acceptor is expected to start before `bt_spp_initator` start.
